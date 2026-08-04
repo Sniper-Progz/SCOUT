@@ -1,0 +1,2 @@
+"""RSS module boundary."""
+
