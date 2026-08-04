@@ -1,0 +1,2 @@
+"""SEC module boundary."""
+
