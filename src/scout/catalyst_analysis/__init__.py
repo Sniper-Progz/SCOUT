@@ -1,0 +1,2 @@
+"""Catalyst analysis module boundary."""
+
